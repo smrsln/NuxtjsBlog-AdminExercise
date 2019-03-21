@@ -1,4 +1,4 @@
-# kose-yazisi
+# Blog Exercise
 
 > A Blog Nuxt.js project
 
