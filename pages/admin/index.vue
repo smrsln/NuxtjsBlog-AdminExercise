@@ -7,13 +7,12 @@
   </div>
 </template>
 <script>
-import PostList from "@/components/post/PostList";
-export default {
-    layout: "admin",
-  components: {
-    PostList
+  import PostList from "@/components/post/PostList"
+  export default {
+    layout : "admin",
+    components : {
+      PostList,
+    },
   }
-};
 </script>
-<style scoped>
-</style>
+<style scoped></style>

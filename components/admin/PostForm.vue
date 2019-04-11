@@ -20,8 +20,8 @@
                 <label >Post</label>
                 <textarea v-model="post.text" class="form-control" rows="5"></textarea>
             </div>
-            <button @click="$router.push('/admin')" class="btn btn-danger">İptal</button>
-            <button type="submit" class="btn btn-primary">Kaydet</button>
+            <button @click="$router.push('/admin')" class="btn btn-danger">Cancel</button>
+            <button type="submit" class="btn btn-primary">Save</button>
         </fieldset>
     </form>
 </div>

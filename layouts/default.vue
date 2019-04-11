@@ -2,17 +2,17 @@
   <div>
     <Header />
     <Banner />
-    <nuxt />
+    <nuxt/>
   </div>
 </template>
 <script>
-import Header from "@/components/common/Header.vue"
-import Banner from "@/components/common/Banner.vue"
-export default {
-  components:{
-    Header,
-    Banner
+  import Header from "@/components/common/Header"
+  import Banner from "@/components/common/Banner"
+  export default {
+    components : {
+      Header,
+      Banner
+    }
   }
-}
 </script>
 

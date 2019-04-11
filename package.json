@@ -1,8 +1,8 @@
 {
-  "name": "kose-yazisi",
+  "name": "Blog",
   "version": "1.0.0",
-  "description": "My super-excellent Nuxt.js project",
-  "author": "Orhan Asım Arslan",
+  "description": "My kickass Nuxt.js project",
+  "author": "Orhan Asım",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -12,10 +12,9 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
-    "@nuxtjs/pwa": "^2.6.0"
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.11.0"
   }
 }
